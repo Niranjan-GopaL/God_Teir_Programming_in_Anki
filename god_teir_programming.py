@@ -58,11 +58,3 @@ print(f"Updated {updated_count} cards with resized image prefixes.")
 
 # Close the connection
 conn.close()
-
-echo "# God_Teir_Programming_in_Anki" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/Niranjan-GopaL/God_Teir_Programming_in_Anki.git
-git push -u origin main
